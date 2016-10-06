@@ -1,0 +1,6 @@
+*.directory
+circle.yml
+*.log
+*.swp
+*.box
+*.vagrant
